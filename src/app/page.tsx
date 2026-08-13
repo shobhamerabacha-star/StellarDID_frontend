@@ -119,7 +119,7 @@ export default function HomePage() {
           <p className="text-sm sm:text-base text-gray-500 dark:text-gray-400 max-w-xl mx-auto text-balance">
             Register decentralised identifiers on-chain, issue verifiable
             credentials to any Stellar address, and give verifiers a single
-            place to check identity claims — all without a central authority.
+            place to check identity claims all without a central authority.
           </p>
         </div>
       </section>
